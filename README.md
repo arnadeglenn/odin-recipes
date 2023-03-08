@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project I have using the Odin Project. I will build a HTML brutalist website on recipes which will then be pushed to GitHub. This project will then be revisited with CSS for proper styling. I will have demonstrated my foundations of Git using this project in addition to HTML and UNIX shell.
